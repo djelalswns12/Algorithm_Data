@@ -1,0 +1,11 @@
+*.sln
+Debug
+*.vcxproj*
+*.suo
+*.txt
+*.db*
+*ipch
+덱
+스택
+우선순위 큐
+트리
