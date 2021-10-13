@@ -5,3 +5,4 @@ Debug
 *.txt
 *.db*
 *ipch
+*.opendb
